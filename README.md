@@ -1,1 +1,1 @@
-# Predciting-Apple-Stock-Price-Using-R
+# Time-Series_Apple-Stock-Price-using-R
