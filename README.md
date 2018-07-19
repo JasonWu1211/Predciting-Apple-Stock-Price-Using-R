@@ -8,3 +8,6 @@ The data has logged the prices of the Apple stock every day and comprises of the
 * ARMA(0,0) - EGARCH(1,1) model with t distribution - Most Adequate for forecasting the mean and volatility of the Apple stock price
 * Captured the asymmetric volatility behavior of Apple stock return
 * Negative shock have larger impact on the Apple stock return volatility than positive shock
+
+
+![R code](/apple%20stock%20price%20prediction.R)
