@@ -1,2 +1,2 @@
-# Time-Series_Apple-Stock-Price-using-R
-## grgr
+# Time Series Apple Stock Price using R
+
