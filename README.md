@@ -10,6 +10,7 @@ The data [(day.csv)](day.csv) has logged the prices of the Apple stock every day
 * Negative shock have larger impact on the Apple stock return volatility than positive shock
 
 
+## Script
 ```R
 #Time series - apple stocke price
 source("http://www.rmetrics.org/Rmetrics.R")
