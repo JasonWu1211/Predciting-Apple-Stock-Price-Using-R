@@ -1,2 +1,2 @@
-# Time Series Analysis: Apple Stock Price| R
+# Time Series Analysis: Apple Stock Price | R
 
