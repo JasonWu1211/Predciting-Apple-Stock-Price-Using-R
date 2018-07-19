@@ -9,5 +9,4 @@ The data has logged the prices of the Apple stock every day and comprises of the
 * Captured the asymmetric volatility behavior of Apple stock return
 * Negative shock have larger impact on the Apple stock return volatility than positive shock
 
-
-![R code](/apple%20stock%20price%20prediction.R)
+[R code](/apple%20stock%20price%20prediction.R)
